@@ -22,6 +22,7 @@ def solution(N, stages):
         # n단계 실패율 계산
         if challenger != 0 :
             failureLate = failer / challenger
+        else :
             failureLate = 0 
 
         result[n] = fail # {n(단계) : n단계 실패율}
