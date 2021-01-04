@@ -25,7 +25,7 @@ def solution(N, stages):
         else :
             failureLate = 0 
 
-        result[n] = fail # {n(단계) : n단계 실패율}
+        result[n] = failureLate # {n(단계) : n단계 실패율}
 
     sorted_result = sorted(result.items(), reverse = True, key = lambda item: item[1]) # value값(실패율값) 역순으로 정렬
     
