@@ -27,4 +27,4 @@
 |<center>월</center>|<center>화</center>|<center>수</center>|<center>목</center>|<center>금</center>|
 |:---:|:---:|:---:|:---:|:---:|
 |||||1<br>[정수 제곱근 판별](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B010%5D%20%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.py)🐮✨|
-|4<br>실패율|5<br>핸드폰 번호 가리기|6<br>|7<br>|8<br>|
+|4<br>실패율|5<br>핸드폰 번호 가리기|6<br>같은 숫자는 싫어|7<br>|8<br>|
