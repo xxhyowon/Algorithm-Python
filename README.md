@@ -32,8 +32,8 @@
 |18<br>[수식 최대화](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B018%5D%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.py)|19<br>[기능개발](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B022%5D%20%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)|20<br>[위장](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B023%5D%20%EC%9C%84%EC%9E%A5.py)|21<br>[H-Index](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B024%5D%20H-Index.py)|22<br>[전화번호 목록](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B025%5D%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.py)|
 |25<br>[카펫](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B026%5D%20%EC%B9%B4%ED%8E%AB.py)|26<br>[주식가격](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B027%5D%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)|27<br>[스킬트리](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B028%5D%20%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.py)|28<br>[124 나라의 숫자](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B029%5D%20124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.py)|29<br>[캐시](https://github.com/xxhyowon/Algorithm-Python/blob/main/%5B030%5D%20%EC%BA%90%EC%8B%9C.py)|
 
-## 2021.01
+## 2021.02
 
 |<center>월</center>|<center>화</center>|<center>수</center>|<center>목</center>|<center>금</center>|
 |:---:|:---:|:---:|:---:|:---:|
-|1<br>프린터||||
+|1<br>프린터|2<br>가장 큰 수|||
