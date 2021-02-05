@@ -36,4 +36,4 @@
 
 |<center>월</center>|<center>화</center>|<center>수</center>|<center>목</center>|<center>금</center>|
 |:---:|:---:|:---:|:---:|:---:|
-|1<br>프린터|2<br>가장 큰 수|3<br>예상 대진표|4<br>영어 끝말잇기|
+|1<br>프린터|2<br>가장 큰 수|3<br>예상 대진표|4<br>영어 끝말잇기|5<br>점프와 순간이동|
